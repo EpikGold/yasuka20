@@ -1,0 +1,21 @@
+{
+  "name": "yasuka20",
+  "version": "1.0.0",
+  "description": "[[My Website]](https://mitsuzi.xyz/)",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EpikGold/yasuka20.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EpikGold/yasuka20/issues"
+  },
+  "homepage": "https://github.com/EpikGold/yasuka20#readme"
+}
